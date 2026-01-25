@@ -1,41 +1,41 @@
-﻿"StudentID,Name,Section,Major"
-"S1000,Alex Smith,Section A,Finance"
-"S1001,Jordan Lee,Section A,Marketing"
-"S1002,Taylor Brown,Section A,Accounting"
-"S1003,Morgan Garcia,Section A,Information Systems"
-"S1004,Casey Nguyen,Section A,Supply Chain Management"
-"S1005,Riley Patel,Section A,Finance"
-"S1006,Avery Kim,Section A,Marketing"
-"S1007,Jamie Hernandez,Section A,Accounting"
-"S1008,Cameron Clark,Section A,Information Systems"
-"S1009,Quinn Lewis,Section A,Supply Chain Management"
-"S1010,Parker Walker,Section A,Finance"
-"S1011,Drew Hall,Section A,Marketing"
-"S1012,Blake Young,Section A,Accounting"
-"S1013,Reese Smith,Section A,Information Systems"
-"S1014,Logan Johnson,Section A,Supply Chain Management"
-"S1015,Hayden Lee,Section A,Finance"
-"S1016,Rowan Brown,Section A,Marketing"
-"S1017,Emerson Garcia,Section A,Accounting"
-"S1018,Finley Nguyen,Section A,Information Systems"
-"S1019,Sawyer Patel,Section A,Supply Chain Management"
-"S1020,Alex Kim,Section A,Finance"
-"S1021,Jordan Hernandez,Section A,Marketing"
-"S1022,Taylor Clark,Section A,Accounting"
-"S1023,Morgan Lewis,Section A,Information Systems"
-"S1024,Casey Walker,Section A,Supply Chain Management"
-"S1025,Riley Hall,Section B,Finance"
-"S1026,Avery Young,Section B,Marketing"
-"S1027,Jamie Smith,Section B,Accounting"
-"S1028,Cameron Johnson,Section B,Information Systems"
-"S1029,Quinn Lee,Section B,Supply Chain Management"
-"S1030,Parker Brown,Section B,Finance"
-"S1031,Drew Garcia,Section B,Marketing"
-"S1032,Blake Nguyen,Section B,Accounting"
-"S1033,Reese Patel,Section B,Information Systems"
-"S1034,Logan Kim,Section B,Supply Chain Management"
-"S1035,Hayden Hernandez,Section B,Finance"
-"S1036,Rowan Clark,Section B,Marketing"
-"S1037,Emerson Lewis,Section B,Accounting"
-"S1038,Finley Walker,Section B,Information Systems"
-"S1039,Sawyer Hall,Section B,Supply Chain Management"
+﻿StudentID,Name,Section,Major
+S1000,Alex Smith,Section A,Finance
+S1001,Jordan Lee,Section A,Marketing
+S1002,Taylor Brown,Section A,Accounting
+S1003,Morgan Garcia,Section A,Information Systems
+S1004,Casey Nguyen,Section A,Supply Chain Management
+S1005,Riley Patel,Section A,Finance
+S1006,Avery Kim,Section A,Marketing
+S1007,Jamie Hernandez,Section A,Accounting
+S1008,Cameron Clark,Section A,Information Systems
+S1009,Quinn Lewis,Section A,Supply Chain Management
+S1010,Parker Walker,Section A,Finance
+S1011,Drew Hall,Section A,Marketing
+S1012,Blake Young,Section A,Accounting
+S1013,Reese Smith,Section A,Information Systems
+S1014,Logan Johnson,Section A,Supply Chain Management
+S1015,Hayden Lee,Section A,Finance
+S1016,Rowan Brown,Section A,Marketing
+S1017,Emerson Garcia,Section A,Accounting
+S1018,Finley Nguyen,Section A,Information Systems
+S1019,Sawyer Patel,Section A,Supply Chain Management
+S1020,Alex Kim,Section A,Finance
+S1021,Jordan Hernandez,Section A,Marketing
+S1022,Taylor Clark,Section A,Accounting
+S1023,Morgan Lewis,Section A,Information Systems
+S1024,Casey Walker,Section A,Supply Chain Management
+S1025,Riley Hall,Section B,Finance
+S1026,Avery Young,Section B,Marketing
+S1027,Jamie Smith,Section B,Accounting
+S1028,Cameron Johnson,Section B,Information Systems
+S1029,Quinn Lee,Section B,Supply Chain Management
+S1030,Parker Brown,Section B,Finance
+S1031,Drew Garcia,Section B,Marketing
+S1032,Blake Nguyen,Section B,Accounting
+S1033,Reese Patel,Section B,Information Systems
+S1034,Logan Kim,Section B,Supply Chain Management
+S1035,Hayden Hernandez,Section B,Finance
+S1036,Rowan Clark,Section B,Marketing
+S1037,Emerson Lewis,Section B,Accounting
+S1038,Finley Walker,Section B,Information Systems
+S1039,Sawyer Hall,Section B,Supply Chain Management
