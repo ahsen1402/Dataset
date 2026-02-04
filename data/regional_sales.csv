@@ -1,0 +1,21 @@
+Transaction_ID,Customer_Name,Region,Sales_Amount,Loyalty_Score
+101,Acme Corp,North,1200.0,5.0
+102,Beta Ltd,north,1500.0,7.0
+103,Gamma Inc,N.,1100.0,8.0
+104,Delta Co,South,45000.0,9.0
+105,Epsilon LLC,Sth,1300.0,4.0
+106,Zeta Ind,South,2100.0,3.0
+107,Eta Sol,East,1250.0,7.0
+108,Theta Biz,west,1600.0,8.0
+109,Iota Soft,West,1550.0,9.0
+110,Kappa Group,E.,1400.0,
+111,Lambda Co,North,1350.0,6.0
+112,Mu Ent,Nth,2000.0,5.0
+113,Nu Systems,South,,4.0
+114,Xi Tech,S.,1700.0,8.0
+115,Omicron Grp,East,1650.0,9.0
+116,Pi Solutions,West,1800.0,2.0
+116,Pi Solutions,West,1800.0,2.0
+118,Rho Dig,South,52000.0,9.0
+119,Sigma Ind,North,1450.0,7.0
+120,Tau Trd,East,1900.0,6.0
